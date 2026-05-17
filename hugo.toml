@@ -1,4 +1,40 @@
 baseURL = 'https://techtrailpulse.com/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Tech Trail Pulse'
+theme = 'blowfish'
+enableRobotsTXT = true
 disableKinds = ['taxonomy', 'term']
+
+[outputs]
+	home = ['HTML', 'RSS', 'JSON']
+
+[params]
+	colorScheme = 'blowfish'
+	defaultAppearance = 'light'
+	autoSwitchAppearance = true
+	enableSearch = true
+	enableCodeCopy = false
+
+[params.header]
+	layout = 'basic'
+
+[params.footer]
+	showMenu = false
+	showCopyright = true
+	showThemeAttribution = true
+	showAppearanceSwitcher = true
+	showScrollToTop = true
+
+[params.homepage]
+	layout = 'page'
+	showRecent = false
+
+[params.article]
+	showBreadcrumbs = false
+	showTableOfContents = false
+	showTaxonomies = false
+
+[[menu.main]]
+	name = 'Home'
+	pageRef = '/'
+	weight = 10
