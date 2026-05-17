@@ -1,4 +1,4 @@
-baseURL = 'https://gregpuzzles1.github.io/blog/'
+baseURL = 'https://techtrailpulse.com/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 disableKinds = ['taxonomy', 'term']
