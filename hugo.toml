@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://gregpuzzles1.github.io/blog/'
 locale = 'en-us'
 title = 'My New Hugo Project'
+disableKinds = ['taxonomy', 'term']
