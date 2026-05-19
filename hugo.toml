@@ -5,6 +5,11 @@ theme = 'blowfish'
 enableRobotsTXT = true
 disableKinds = ['taxonomy', 'term']
 
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
+
 [outputs]
 	home = ['HTML', 'RSS', 'JSON']
 
@@ -14,6 +19,9 @@ disableKinds = ['taxonomy', 'term']
 	autoSwitchAppearance = true
 	enableSearch = true
 	enableCodeCopy = false
+	Logo = 'favicon.PNG'
+	mainSections = ['posts']
+	copyright = '&copy; { year } Greg Christian - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
 
 [params.header]
 	layout = 'basic'
@@ -27,7 +35,10 @@ disableKinds = ['taxonomy', 'term']
 
 [params.homepage]
 	layout = 'page'
-	showRecent = false
+	showRecent = true
+	showRecentItems = 9
+	cardView = true
+	cardViewScreenWidth = false
 
 [params.article]
 	showBreadcrumbs = false
@@ -38,3 +49,18 @@ disableKinds = ['taxonomy', 'term']
 	name = 'Home'
 	pageRef = '/'
 	weight = 10
+
+[[menu.main]]
+	name = 'About'
+	pageRef = '/about/'
+	weight = 15
+
+[[menu.main]]
+	name = 'Reading Trail'
+	pageRef = '/reading-list/'
+	weight = 20
+
+[[menu.main]]
+	name = 'Puzzlemania'
+	pageRef = '/puzzlemania/'
+	weight = 30
