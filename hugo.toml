@@ -23,6 +23,9 @@ disableKinds = ['taxonomy', 'term']
 	mainSections = ['posts']
 	copyright = '&copy; { year } Greg Christian - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
 
+[params.author]
+	image = 'img/004-Favicon-ChatGPT.png'
+
 [params.header]
 	layout = 'basic'
 
@@ -44,6 +47,7 @@ disableKinds = ['taxonomy', 'term']
 	showBreadcrumbs = false
 	showTableOfContents = false
 	showTaxonomies = false
+	showAuthor = false
 
 [[menu.main]]
 	name = 'Home'

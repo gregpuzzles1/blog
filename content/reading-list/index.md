@@ -3,9 +3,11 @@ title: "Greg's Reading List"
 description: "Secondary reading-list page generated from Books metadata."
 date: 2026-05-19
 slug: "reading-list"
+showAuthor: false
+authors: []
 ---
 
-Welcome to Greg's reading list. This page uses tabbed card layouts for books and audio books.
+Welcome to Greg's reading list. These are some of the books that I have enjoyed reading. I have also included some of my Uncle Ron's books in CLM Books. Find out more about CLM Books here: [CLM Books](/about/#clm-books).
 
 {{< tabs >}}
 {{< tab label="Books" md="false" >}}

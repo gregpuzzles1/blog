@@ -3,7 +3,11 @@ title: "About"
 description: "About Greg Christian"
 date: 2026-05-19
 slug: "about"
+showAuthor: false
+authors: []
 ---
+
+## About Me
 
 WELCOME! My name is Greg Christian.
 
@@ -18,3 +22,13 @@ I live in Greeley, Colorado, USA with my Mom Ruth, Sister Marsha, and Border Col
 I hope you enjoy your visit. If you would like to contact me, send me an email.
 
 {{< button href="mailto:gregpuzzles1@gmail.com" >}}Contact{{< /button >}}
+
+## CLM Books
+
+CLM stands for Christian Living Ministries. That's where CLM Books comes from.
+
+Christian Living Ministries is a literature evangelism ministry started by my Uncle Ron. Uncle Ron, a Free Methodist pastor for many years, has authored and compiled many Christian devotional books.
+
+Some are available for viewing or downloading on this site. The first 13 books "Growing A Godly Life" series, are designed to be studied in one year - 4 weeks per book.
+
+{{< button href="/reading-list/#clm-books" >}}Back to Greg's Reading List{{< /button >}}

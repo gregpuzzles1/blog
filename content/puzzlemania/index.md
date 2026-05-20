@@ -3,6 +3,8 @@ title: "Puzzlemania"
 description: "Puzzle gallery built from puzzle images and metadata."
 date: 2026-05-19
 slug: "puzzlemania"
+showAuthor: false
+authors: []
 ---
 
 Welcome to Puzzlemania.
