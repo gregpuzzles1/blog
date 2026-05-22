@@ -4,7 +4,7 @@ Source for **Tech Trail Pulse** — a Hugo-powered personal site with blog posts
 
 ## Website
 
-- **Live site:** [www.techtrailpulse.com](https://www.techtrailpulse.com)
+- **Live site:** [techtrailpulse.com](https://techtrailpulse.com)
 
 ## Tech Stack
 
