@@ -39,7 +39,7 @@ disableKinds = ['taxonomy', 'term']
 [params.homepage]
 	layout = 'page'
 	showRecent = true
-	showRecentItems = 9
+	showRecentItems = 18
 	cardView = true
 	cardViewScreenWidth = false
 
