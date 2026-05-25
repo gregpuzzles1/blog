@@ -25,13 +25,15 @@
   justify-content: center;
   gap: 0.35rem;
   background: rgba(8, 29, 63, 0.75);
+  overflow: hidden;
 }
 
 .trail-hero-icons img {
-  width: 108px;
-  height: 108px;
+  width: 152px;
+  height: 152px;
   object-fit: cover;
-  border-radius: 0.55rem;
+  object-position: center;
+  border-radius: 999px;
 }
 
 .trail-hero h2 {

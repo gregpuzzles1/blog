@@ -24,7 +24,7 @@ disableKinds = ['taxonomy', 'term']
 	copyright = '&copy; { year } Greg Christian - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
 
 [params.author]
-	image = 'img/004-Favicon-ChatGPT.png'
+	image = 'img/GregMemorialDay2026.png'
 
 [params.header]
 	layout = 'basic'
