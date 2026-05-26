@@ -7,7 +7,7 @@ description: "Projects, puzzles, and lessons from the trail."
 	<div class="trail-hero-icons">
 		<img src="/images/Blog/GregMemorialDay2026.png" alt="Trail icon" loading="lazy">
 	</div>
-	<h2>Trail Notes</h2>
+	<h2>Greg Christian's weblog</h2>
 	<p>Projects, puzzles, and lessons from the trail.</p>
 	<div class="trail-hero-pills">
 		<a href="/reading-list/">Reading Trail</a>
