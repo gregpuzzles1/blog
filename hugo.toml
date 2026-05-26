@@ -18,6 +18,7 @@ disableKinds = ['taxonomy', 'term']
 	defaultAppearance = 'light'
 	autoSwitchAppearance = true
 	defaultSocialImage = 'img/site-social-preview-1200x630.jpg'
+	images = ['img/site-social-preview-1200x630.jpg']
 	enableSearch = true
 	enableCodeCopy = false
 	Logo = 'favicon.PNG'
