@@ -17,6 +17,7 @@ disableKinds = ['taxonomy', 'term']
 	colorScheme = 'blowfish'
 	defaultAppearance = 'light'
 	autoSwitchAppearance = true
+	defaultSocialImage = 'img/site-social-preview.png'
 	enableSearch = true
 	enableCodeCopy = false
 	Logo = 'favicon.PNG'
