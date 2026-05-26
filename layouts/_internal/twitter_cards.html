@@ -1,0 +1,22 @@
+{{- $title := cond .IsHome .Site.Title .Title -}}
+{{- $description := .Description | default (.Summary | plainify) | default .Site.Params.description -}}
+{{- $image := "" -}}
+
+{{- with .Params.images -}}
+  {{- $image = index . 0 -}}
+{{- end -}}
+{{- if not $image -}}
+  {{- with .Site.Params.defaultSocialImage -}}
+    {{- $image = . -}}
+  {{- end -}}
+{{- end -}}
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title | plainify }}">
+{{- with $description -}}
+<meta name="twitter:description" content="{{ . | plainify }}">
+{{- end -}}
+{{- with $image -}}
+<meta name="twitter:image" content="{{ . | absURL }}">
+<meta name="twitter:image:alt" content="Tech Trail Pulse social preview image">
+{{- end -}}
