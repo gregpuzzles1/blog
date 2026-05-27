@@ -1,6 +1,6 @@
 baseURL = 'https://techtrailpulse.com/'
 locale = 'en-us'
-title = 'Tech Trail Pulse'
+title = "Tech Trail Pulse | Greg Christian's Weblog"
 theme = 'blowfish'
 enableRobotsTXT = true
 disableKinds = ['taxonomy', 'term']
@@ -17,6 +17,8 @@ disableKinds = ['taxonomy', 'term']
 	colorScheme = 'blowfish'
 	defaultAppearance = 'light'
 	autoSwitchAppearance = true
+	description = "Greg Christian's weblog featuring projects, puzzles, and lessons from the trail."
+	keywords = ['Greg Christian', 'Greg Christian weblog', 'Tech Trail Pulse', 'puzzles', 'interactive tools', 'blog']
 	defaultSocialImage = 'img/site-social-preview-1200x630.jpg'
 	images = ['img/site-social-preview-1200x630.jpg']
 	enableSearch = true
@@ -26,6 +28,9 @@ disableKinds = ['taxonomy', 'term']
 	copyright = '&copy; { year } Greg Christian - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
 
 [params.author]
+	name = 'Greg Christian'
+	headline = "Greg Christian's weblog"
+	bio = 'Projects, puzzles, and lessons from the trail.'
 	image = 'img/GregMemorialDay2026.png'
 
 [params.header]

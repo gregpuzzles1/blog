@@ -8,11 +8,35 @@
   gtag('config', 'G-VMF0N62L7Z');
 </script>
 
+<meta name="creator" content="Greg Christian">
+<meta name="publisher" content="Greg Christian">
+<meta name="application-name" content="Tech Trail Pulse">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "@id": "{{ .Home.Permalink }}#blog",
+  "name": "{{ .Title | safeJS }}",
+  "description": "{{ .Params.description | safeJS }}",
+  "url": "{{ .Home.Permalink }}",
+  "inLanguage": "{{ .Language.Lang }}",
+  "author": {
+    "@type": "Person",
+    "name": "Greg Christian"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Greg Christian"
+  }
+}
+</script>
+
 {{ with .Params.defaultSocialImage }}
   {{ $socialImageURL := . | absURL }}
   <meta property="og:image:secure_url" content="{{ $socialImageURL }}">
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="Tech Trail Pulse social preview image">
+  <meta property="og:image:alt" content="Tech Trail Pulse - Greg Christian's weblog social preview image">
 {{ end }}
