@@ -607,7 +607,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>1 Encountering the Living God</h3>
       <p><strong>Pages:</strong> 115</p>
       <p><strong>Size:</strong> 3.09 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/01-Encountering-the-Living-God.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/01-Encountering-the-Living-God.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/01-Encountering-the-Living-God.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/01-Encountering-the-Living-God.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -617,7 +617,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>2 Practicing the Means of Grace</h3>
       <p><strong>Pages:</strong> 88</p>
       <p><strong>Size:</strong> 2.42 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/02-Practicing-the-Means-of-Grace.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/02-Practicing-the-Means-of-Grace.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/02-Practicing-the-Means-of-Grace.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/02-Practicing-the-Means-of-Grace.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -627,7 +627,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>3 Pursuing a Holy Lifestyle</h3>
       <p><strong>Pages:</strong> 85</p>
       <p><strong>Size:</strong> 1.28 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/03-Pursuing-a-Holy-Lifestyle.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/03-Pursuing-a-Holy-Lifestyle.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/03-Pursuing-a-Holy-Lifestyle.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/03-Pursuing-a-Holy-Lifestyle.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -637,7 +637,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>4 Battling Life's Multiple Temptations</h3>
       <p><strong>Pages:</strong> 89</p>
       <p><strong>Size:</strong> 1.49 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/04-Battling-Lifes-Multiple-Temptations.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/04-Battling-Lifes-Multiple-Temptations.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/04-Battling-Lifes-Multiple-Temptations.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/04-Battling-Lifes-Multiple-Temptations.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -647,7 +647,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>5 Practicing the Presence of God</h3>
       <p><strong>Pages:</strong> 86</p>
       <p><strong>Size:</strong> 2.21 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/05-Practicing-the-Presence-of-God.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/05-Practicing-the-Presence-of-God.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/05-Practicing-the-Presence-of-God.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/05-Practicing-the-Presence-of-God.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -657,7 +657,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>6 Overcoming Obstacles to Christian Growth</h3>
       <p><strong>Pages:</strong> 92</p>
       <p><strong>Size:</strong> 2.57 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/06-Overcoming-Obstacles-to-Christian-Growth.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/06-Overcoming-Obstacles-to-Christian-Growth.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/06-Overcoming-Obstacles-to-Christian-Growth.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/06-Overcoming-Obstacles-to-Christian-Growth.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -667,7 +667,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>7 Refocusing on Lifes Priorities</h3>
       <p><strong>Pages:</strong> 91</p>
       <p><strong>Size:</strong> 2.50 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/07-Refocusing-on-Lifes-Priorities.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/07-Refocusing-on-Lifes-Priorities.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/07-Refocusing-on-Lifes-Priorities.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/07-Refocusing-on-Lifes-Priorities.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -677,7 +677,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>8 Appropriating the Power of Prayer and Faith</h3>
       <p><strong>Pages:</strong> 82</p>
       <p><strong>Size:</strong> 2.39 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/08-Appropriating-the-Power-of-Prayer-and-Faith.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/08-Appropriating-the-Power-of-Prayer-and-Faith.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/08-Appropriating-the-Power-of-Prayer-and-Faith.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/08-Appropriating-the-Power-of-Prayer-and-Faith.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -687,7 +687,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>9 Mainting Life's Various Stewardship</h3>
       <p><strong>Pages:</strong> 86</p>
       <p><strong>Size:</strong> 1.53 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/09-Maintaining-Lifes-Various-Stewardship.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/09-Maintaining-Lifes-Various-Stewardship.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/09-Maintaining-Lifes-Various-Stewardship.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/09-Maintaining-Lifes-Various-Stewardship.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -697,7 +697,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>10 Rescuing the Lost Ones</h3>
       <p><strong>Pages:</strong> 96</p>
       <p><strong>Size:</strong> 2.85 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/10-Rescuing-the-Lost-Ones.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/10-Rescuing-the-Lost-Ones.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/10-Rescuing-the-Lost-Ones.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/10-Rescuing-the-Lost-Ones.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -707,7 +707,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>11 Reaching Out in Holy Love</h3>
       <p><strong>Pages:</strong> 85</p>
       <p><strong>Size:</strong> 1.36 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/11-Reaching-Out-in-Holy-Love.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/11-Reaching-Out-in-Holy-Love.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/11-Reaching-Out-in-Holy-Love.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/11-Reaching-Out-in-Holy-Love.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -717,7 +717,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>12 Surviving Lifes Hard Trials</h3>
       <p><strong>Pages:</strong> 90</p>
       <p><strong>Size:</strong> 2.57 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/12-Surviving-Lifes-Hard-Trials.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/12-Surviving-Lifes-Hard-Trials.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/12-Surviving-Lifes-Hard-Trials.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/12-Surviving-Lifes-Hard-Trials.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -727,7 +727,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>13 Maintaining the Life of Faith</h3>
       <p><strong>Pages:</strong> 123</p>
       <p><strong>Size:</strong> 3.88 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/13-Maintaining-the-Life-of-Faith.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/13-Maintaining-the-Life-of-Faith.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/13-Maintaining-the-Life-of-Faith.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/13-Maintaining-the-Life-of-Faith.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -737,7 +737,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>Adventures in Biblical Faith</h3>
       <p><strong>Pages:</strong> 573</p>
       <p><strong>Size:</strong> 46.45 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Adventures-in-Biblical-Faith.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Adventures-in-Biblical-Faith.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/Adventures-in-Biblical-Faith.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/Adventures-in-Biblical-Faith.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -747,7 +747,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>Am I My Brothers Keeper</h3>
       <p><strong>Pages:</strong> 84</p>
       <p><strong>Size:</strong> 4.53 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Am-I-My-Brothers-Keeper.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Am-I-My-Brothers-Keeper.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/Am-I-My-Brothers-Keeper.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/Am-I-My-Brothers-Keeper.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -757,7 +757,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>And Jesus Taught Them Saying</h3>
       <p><strong>Pages:</strong> 296</p>
       <p><strong>Size:</strong> 296.85 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/And-Jesus-Taught-Them-Saying.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/And-Jesus-Taught-Them-Saying.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/And-Jesus-Taught-Them-Saying.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/And-Jesus-Taught-Them-Saying.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -767,7 +767,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>Becoming Mature Christian</h3>
       <p><strong>Pages:</strong> 127</p>
       <p><strong>Size:</strong> 14.21 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Becoming-a-Mature-Christian.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Becoming-a-Mature-Christian.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/Becoming-a-Mature-Christian.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/Becoming-a-Mature-Christian.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -777,7 +777,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>“COME HOLY SPIRIT”</h3>
       <p><strong>Pages:</strong> 109</p>
       <p><strong>Size:</strong> 0.73 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/COME-HOLY-SPIRIT.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/COME-HOLY-SPIRIT.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/COME-HOLY-SPIRIT.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/COME-HOLY-SPIRIT.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -787,7 +787,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>Conquering the Enemies Within</h3>
       <p><strong>Pages:</strong> 127</p>
       <p><strong>Size:</strong> 5.36 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Conquering-the-Enemies-Within.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Conquering-the-Enemies-Within.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/Conquering-the-Enemies-Within.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/Conquering-the-Enemies-Within.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -797,7 +797,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>Cultivating Christ Like Character</h3>
       <p><strong>Pages:</strong> 222</p>
       <p><strong>Size:</strong> 62.16 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Cultivating-Christ-Like-Character.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Cultivating-Christ-Like-Character.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/Cultivating-Christ-Like-Character.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/Cultivating-Christ-Like-Character.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -807,7 +807,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>Glimpses Into Reality</h3>
       <p><strong>Pages:</strong> 479</p>
       <p><strong>Size:</strong> 2.95 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Glimpses-Into-Reality.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Glimpses-Into-Reality.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/Glimpses-Into-Reality.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/Glimpses-Into-Reality.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -817,7 +817,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>God For All Seasons</h3>
       <p><strong>Pages:</strong> 331</p>
       <p><strong>Size:</strong> 21.76 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/God-For-All-Seasons.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/God-For-All-Seasons.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/God-For-All-Seasons.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/God-For-All-Seasons.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -827,7 +827,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>How to Obtain and Maintain Eternal Salvation</h3>
       <p><strong>Pages:</strong> 333</p>
       <p><strong>Size:</strong> 10.60 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/How-to-Obtain-and-Maintain-Eternal-Salvation.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/How-to-Obtain-and-Maintain-Eternal-Salvation.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/How-to-Obtain-and-Maintain-Eternal-Salvation.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/How-to-Obtain-and-Maintain-Eternal-Salvation.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -837,7 +837,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>How Wide is God's Mercy</h3>
       <p><strong>Pages:</strong> 75</p>
       <p><strong>Size:</strong> 52.03 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/How-Wide-is-Gods-Mercy.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/How-Wide-is-Gods-Mercy.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/How-Wide-is-Gods-Mercy.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/How-Wide-is-Gods-Mercy.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -847,7 +847,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>Jesus The Great 'I Am'</h3>
       <p><strong>Pages:</strong> 192</p>
       <p><strong>Size:</strong> 187.58 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Jesus-The-Great-I-Am.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Jesus-The-Great-I-Am.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/Jesus-The-Great-I-Am.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/Jesus-The-Great-I-Am.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -857,7 +857,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>Let Us Hold Fast</h3>
       <p><strong>Pages:</strong> 391</p>
       <p><strong>Size:</strong> 51.90 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Let-Us-Hold-Fast.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Let-Us-Hold-Fast.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/Let-Us-Hold-Fast.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/Let-Us-Hold-Fast.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -867,7 +867,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>Living the Life of Joy!</h3>
       <p><strong>Pages:</strong> 220</p>
       <p><strong>Size:</strong> 6.75 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Living-the-Life-of-Joy.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Living-the-Life-of-Joy.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/Living-the-Life-of-Joy.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/Living-the-Life-of-Joy.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -877,7 +877,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>Lost in Wonder, Love and Praise!</h3>
       <p><strong>Pages:</strong> 262</p>
       <p><strong>Size:</strong> 8.69 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Lost-in-Wonder-Love-and-Praise.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Lost-in-Wonder-Love-and-Praise.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/Lost-in-Wonder-Love-and-Praise.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/Lost-in-Wonder-Love-and-Praise.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -887,7 +887,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>Marks of a High Calling</h3>
       <p><strong>Pages:</strong> 198</p>
       <p><strong>Size:</strong> 2.15 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Marks-of-a-High-Calling.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Marks-of-a-High-Calling.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/Marks-of-a-High-Calling.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/Marks-of-a-High-Calling.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -897,7 +897,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>Mountain Peaks of Salvation History</h3>
       <p><strong>Pages:</strong> 67</p>
       <p><strong>Size:</strong> 32.98 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Mountain-Peaks-of-Salvation-History.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/Mountain-Peaks-of-Salvation-History.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/Mountain-Peaks-of-Salvation-History.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/Mountain-Peaks-of-Salvation-History.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -907,7 +907,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>“OUR FATHER WHO ART IN HEAVEN”</h3>
       <p><strong>Pages:</strong> 86</p>
       <p><strong>Size:</strong> 0.78 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/OUR-FATHER-WHO-ART-IN-HEAVEN-1-9.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/OUR-FATHER-WHO-ART-IN-HEAVEN-1-9.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/OUR-FATHER-WHO-ART-IN-HEAVEN-1-9.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/OUR-FATHER-WHO-ART-IN-HEAVEN-1-9.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -917,7 +917,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>The Balanced Life of Stewardship</h3>
       <p><strong>Pages:</strong> 313</p>
       <p><strong>Size:</strong> 17.90 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/The-Balanced-Life-of-Stewardship.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/The-Balanced-Life-of-Stewardship.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/The-Balanced-Life-of-Stewardship.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/The-Balanced-Life-of-Stewardship.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -927,7 +927,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>The Marks of a Great Church</h3>
       <p><strong>Pages:</strong> 257</p>
       <p><strong>Size:</strong> 29.93 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/The-Marks-of-a-Great-Church.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/The-Marks-of-a-Great-Church.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/The-Marks-of-a-Great-Church.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/The-Marks-of-a-Great-Church.pdf" download>Download</a></p>
     </div>
   </article>
 
@@ -937,7 +937,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <h3>United in Christ</h3>
       <p><strong>Pages:</strong> 274</p>
       <p><strong>Size:</strong> 254.89 MB</p>
-      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/United-in-Christ.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/United-in-Christ.pdf" download>Download</a></p>
+      <p><a href="https://pdfs.techtrailpulse.com/clmbooks/United-in-Christ.pdf" target="_blank" rel="noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/United-in-Christ.pdf" download>Download</a></p>
     </div>
   </article>
 
