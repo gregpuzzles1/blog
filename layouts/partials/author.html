@@ -1,0 +1,26 @@
+{{ with .Site.Params.Author.name }}
+  <div class="author mt-4 flex items-start gap-4">
+    {{ with $.Site.Params.Author.image }}
+      <img
+        class="h-16 w-16 rounded-full object-cover"
+        width="64"
+        height="64"
+        alt="{{ $.Site.Params.Author.name | default "Author" }}"
+        src="{{ . | relURL }}" />
+    {{ end }}
+    <div class="h-16 flex flex-col justify-between">
+      <div class="text-xs font-medium uppercase leading-none tracking-wide text-neutral-500 dark:text-neutral-400">
+        AUTHOR
+      </div>
+      <div class="text-sm font-semibold leading-none text-neutral-800 dark:text-neutral-200 whitespace-nowrap">
+        {{ . }}
+      </div>
+      <div class="text-xs font-medium leading-none tracking-wide text-neutral-500 dark:text-neutral-400 whitespace-nowrap">
+        Just a hobbyist
+      </div>
+      <div class="text-xs leading-none text-neutral-400 dark:text-neutral-500">
+        {{ partialCached "author-links.html" $ }}
+      </div>
+    </div>
+  </div>
+{{ end }}

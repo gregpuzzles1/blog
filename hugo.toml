@@ -31,7 +31,12 @@ disableKinds = ['taxonomy', 'term']
 	name = 'Greg Christian'
 	headline = "Greg Christian's weblog"
 	bio = 'Projects, puzzles, and lessons from the trail.'
-	image = 'img/GregMemorialDay2026.png'
+	image = '/images/Blog/GregMemorialDay2026.png'
+	links = [
+		{ x-twitter = 'https://x.com/gregpuzzles1' },
+		{ reddit = 'https://www.reddit.com/user/gregpuzzles1/' },
+		{ github = 'https://github.com/gregpuzzles1' },
+	]
 
 [params.header]
 	layout = 'basic'
@@ -54,7 +59,7 @@ disableKinds = ['taxonomy', 'term']
 	showBreadcrumbs = false
 	showTableOfContents = false
 	showTaxonomies = false
-	showAuthor = false
+	showAuthor = true
 
 [[menu.main]]
 	name = 'Home'
