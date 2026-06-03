@@ -31,4 +31,12 @@ Christian Living Ministries is a literature evangelism ministry started by my Un
 
 Some are available for viewing or downloading on this site. The first 13 books "Growing A Godly Life" series, are designed to be studied in one year - 4 weeks per book.
 
-{{< button href="/reading-list/#clm-books" >}}Back to Greg's Reading List{{< /button >}}
+{{< button href="/reading-list/#clm-books" >}}Greg's Reading List - CLM Books{{< /button >}}
+
+{{< typeit tag="h3" speed=40 loop=true loopDelay=4000 >}}
+If you would like to be notified when I add a new post, one way is to follow me on "X" ⬇️
+{{< /typeit >}}
+
+<a href="https://x.com/gregpuzzles1" target="_blank" rel="noopener noreferrer" aria-label="Follow Greg on X" title="Follow Greg on X">
+	<span style="font-size: 5em; line-height: 1;">{{< icon "x-twitter" >}}</span>
+</a>
