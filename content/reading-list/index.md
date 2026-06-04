@@ -7,6 +7,8 @@ showAuthor: false
 authors: []
 ---
 
+{{< postBackground "/images/Backgrounds/deer-mountain.JPG" >}}
+
 Welcome to Greg's reading list. These are some of the books that I have enjoyed reading. I have also included some of my Uncle Ron's books in CLM Books. Find out more about CLM Books here: [CLM Books](/about/#clm-books).
 
 {{< tabs >}}

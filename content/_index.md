@@ -3,6 +3,8 @@ title: "Trail Notes"
 description: "Projects, puzzles, and lessons from the trail."
 ---
 
+{{< postBackground "/images/Backgrounds/chasm-falls.JPG" >}}
+
 <div class="trail-hero">
 	<div class="trail-hero-icons">
 		<img src="/images/Blog/GregMemorialDay2026.png" alt="Trail icon" loading="lazy">

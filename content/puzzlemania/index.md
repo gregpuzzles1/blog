@@ -7,6 +7,8 @@ showAuthor: false
 authors: []
 ---
 
+{{< postBackground "/images/Backgrounds/several-columbines.JPG" >}}
+
 Welcome to Puzzlemania.
 
 {{< tabs >}}

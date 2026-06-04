@@ -7,6 +7,8 @@ showAuthor: false
 authors: []
 ---
 
+{{< postBackground "/images/Backgrounds/fall-river-road.JPG" >}}
+
 ## About Me
 
 WELCOME! My name is Greg Christian.

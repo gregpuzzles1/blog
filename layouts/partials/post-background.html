@@ -1,0 +1,103 @@
+{{ $image := .image }}
+
+{{ if $image }}
+  <style>
+  body.has-post-bg {
+  	background-color: transparent !important;
+  }
+
+  html.dark body.has-post-bg,
+  body.dark.has-post-bg {
+  	background-color: transparent !important;
+  }
+
+  .post-bg-fixed {
+  	position: fixed;
+  	inset-inline: 0;
+  	top: 0;
+  	height: 900px;
+  	pointer-events: none;
+  	z-index: -2;
+  	background-image: url('{{ $image }}');
+  	background-size: cover;
+  	background-position: center top;
+  	background-repeat: no-repeat;
+  }
+
+  .post-bg-fixed::before,
+  .post-bg-fixed::after {
+  	content: "";
+  	position: absolute;
+  	inset: 0;
+  	pointer-events: none;
+  }
+
+  .post-bg-fixed::before {
+  	background: linear-gradient(to top, rgba(241, 247, 255, 0.9), rgba(241, 247, 255, 0.36) 58%);
+  }
+
+  .post-bg-fixed::after {
+  	opacity: 0.9;
+  	background: linear-gradient(to top, rgba(241, 247, 255, 0.9), rgba(241, 247, 255, 0.52));
+  }
+
+  html.dark .post-bg-fixed::before,
+  body.dark .post-bg-fixed::before {
+  	background: linear-gradient(to top, rgba(7, 15, 26, 0.8), rgba(7, 15, 26, 0.24) 58%);
+  }
+
+  html.dark .post-bg-fixed::after,
+  body.dark .post-bg-fixed::after {
+  	opacity: 0.78;
+  	background: linear-gradient(to top, rgba(7, 15, 26, 0.82), rgba(7, 15, 26, 0.36));
+  }
+
+  .post-bg-blur {
+  	position: fixed;
+  	inset: 0;
+  	opacity: 0;
+  	pointer-events: none;
+  	z-index: -1;
+  	backdrop-filter: blur(16px);
+  	background: rgba(241, 247, 255, 0.9);
+  }
+
+  html.dark .post-bg-blur,
+  body.dark .post-bg-blur {
+  	background: rgba(7, 15, 26, 0.7);
+  }
+
+  @media (max-width: 1024px) {
+  	.post-bg-fixed {
+  		height: 760px;
+  	}
+  }
+  </style>
+
+  <div class="post-bg-fixed" aria-hidden="true"></div>
+  <div id="post-bg-blur" class="post-bg-blur" aria-hidden="true"></div>
+
+  <script>
+  (function () {
+  	document.body.classList.add("has-post-bg");
+
+  	var blurLayer = document.getElementById("post-bg-blur");
+  	if (!blurLayer) return;
+
+  	var maxScroll = 420;
+  	var maxOpacity = 0.94;
+  	var minOpacity = 0.56;
+
+  	function updateBlur() {
+  		var y = window.scrollY || document.documentElement.scrollTop || 0;
+  		var ratio = Math.min(y / maxScroll, 1);
+  		var opacity = minOpacity + (maxOpacity - minOpacity) * ratio;
+  		blurLayer.style.opacity = String(opacity.toFixed(3));
+  	}
+
+  	updateBlur();
+  	window.addEventListener("scroll", updateBlur, { passive: true });
+  	window.addEventListener("resize", updateBlur);
+  })();
+  </script>
+{{ end }}
