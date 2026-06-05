@@ -144,6 +144,11 @@
   height: 1.2em;
 }
 
+.author-post-social .author-links .icon svg {
+  width: 1.55em;
+  height: 1.55em;
+}
+
 @media (max-width: 1280px) {
   .rl2-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
