@@ -3,7 +3,6 @@ locale = 'en-us'
 title = "Tech Trail Pulse"
 theme = 'blowfish'
 enableRobotsTXT = true
-disableKinds = ['taxonomy', 'term']
 
 [markup]
 	[markup.goldmark]
