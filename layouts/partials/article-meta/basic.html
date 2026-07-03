@@ -97,8 +97,15 @@
   {{/* Output taxonomies */}}
   {{ if .Params.showTaxonomies | default (.Site.Params.article.showTaxonomies | default false) }}
     <div class="flex flex-row flex-wrap items-center">
-      {{/* Prefer front matter tags so badges still render when taxonomy pages are disabled. */}}
-      {{ if and ($context.Params.showTags | default ($context.Site.Params.article.showTags | default true)) (gt (len ($context.Params.tags | default (slice))) 0) }}
+      {{ $tagTerms := $context.GetTerms "tags" }}
+      {{/* Prefer Hugo term pages when available; fall back to front matter tags only if term pages are unavailable. */}}
+      {{ if and ($context.Params.showTags | default ($context.Site.Params.article.showTags | default true)) (gt (len $tagTerms) 0) }}
+        {{ range $tagTerms }}
+          <a class="relative mt-[0.5rem] me-2" href="{{ .RelPermalink }}">
+            {{ partial "badge.html" .LinkTitle }}
+          </a>
+        {{ end }}
+      {{ else if and ($context.Params.showTags | default ($context.Site.Params.article.showTags | default true)) (gt (len ($context.Params.tags | default (slice))) 0) }}
         {{ range $context.Params.tags }}
           <span class="relative mt-[0.5rem] me-2">
             {{ partial "badge.html" . }}
