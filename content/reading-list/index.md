@@ -16,13 +16,33 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
 <div class="rl2-breakout">
 <div class="rl2-grid">
   <article class="rl2-card">
+    <img src="/images/books/26_TheUltimateActivityBookforSmartMen.jpg" alt="Cover of The Ultimate Activity Book For Smart Men" loading="lazy">
+    <div class="rl2-meta">
+      <h3>The Ultimate Activity Book For Smart Men</h3>
+      <p><strong>Published:</strong> 2025</p>
+      <p><strong>Genre:</strong> Puzzle, Activity</p>
+      <p><strong>✅:</strong> Currently reading</p>
+    </div>
+  </article>
+
+  <article class="rl2-card">
+    <img src="/images/books/25_UndauntedCourage.jpg" alt="Cover of Undaunted Courage" loading="lazy">
+    <div class="rl2-meta">
+      <h3>Undaunted Courage</h3>
+      <p><strong>Published:</strong> 1996</p>
+      <p><strong>Genre:</strong> Historical biography</p>
+      <p><strong>✅:</strong> Currently reading</p>
+    </div>
+  </article>
+
+  <article class="rl2-card">
     <img src="/images/books/24_ChristsObjectLessons.jpg" alt="Cover of Christ's Object Lessons" loading="lazy">
     <div class="rl2-meta">
       <h3>Christ's Object Lessons</h3>
       <p><strong>Author:</strong> Ellen G. White</p>
       <p><strong>Published:</strong> 1900</p>
       <p><strong>Genre:</strong> Christian devotional</p>
-      <p><strong>Status:</strong> Currently reading</p>
+      <p><strong>✅:</strong> Currently reading</p>
     </div>
   </article>
 
