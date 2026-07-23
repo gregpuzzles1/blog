@@ -5,6 +5,7 @@
 {{- $startDelay := .Get "startDelay" | default 0 -}}
 {{- $breakLines := .Get "breakLines" | default true -}}
 {{- $waitUntilVisible := .Get "waitUntilVisible" | default true -}}
+{{- $resetOnHidden := .Get "resetOnHidden" | default false -}}
 {{- $loop := .Get "loop" | default false -}}
 {{- $loopDelay := .Get "loopDelay" | default 750 -}}
 {{- $randomLines := .Get "randomLines" | default false -}}
@@ -32,15 +33,41 @@
         [strings[i], strings[j]] = [strings[j], strings[i]];
       }
       {{ end }}
-      new TypeIt("#{{ $id }}", {
-        strings: strings,
-        speed: {{ $speed }},
-        lifeLike: {{ $lifeLike }},
-        startDelay: {{ $startDelay }},
-        breakLines: {{ $breakLines }},
-        waitUntilVisible: {{ $waitUntilVisible }},
-        loop: {{ $loop }},
-        loopDelay: {{ $loopDelay }}
-      }).go();
+      var element = document.getElementById("{{ $id }}");
+      var typeit;
+      var startTyping = function () {
+        typeit = new TypeIt(element, {
+          strings: strings,
+          speed: {{ $speed }},
+          lifeLike: {{ $lifeLike }},
+          startDelay: {{ $startDelay }},
+          breakLines: {{ $breakLines }},
+          waitUntilVisible: {{ if $resetOnHidden }}false{{ else }}{{ $waitUntilVisible }}{{ end }},
+          loop: {{ $loop }},
+          loopDelay: {{ $loopDelay }}
+        }).go();
+      };
+      {{ if $resetOnHidden }}
+      if ("IntersectionObserver" in window) {
+        var observer = new IntersectionObserver(function (entries) {
+          entries.forEach(function (entry) {
+            if (entry.isIntersecting) {
+              if (!typeit) {
+                startTyping();
+              }
+            } else if (typeit) {
+              typeit.destroy();
+              typeit = undefined;
+              element.textContent = "";
+            }
+          });
+        });
+        observer.observe(element);
+      } else {
+        startTyping();
+      }
+      {{ else }}
+      startTyping();
+      {{ end }}
     });
 </script>
