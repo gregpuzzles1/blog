@@ -16,9 +16,21 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
 <div class="rl2-breakout">
 <div class="rl2-grid">
   <article class="rl2-card">
+    <img src="/images/books/27_HidatoBeehive9203NewLogicPuzzles.png" alt="Cover of Hidato Beehive 9: 203 New Logic Puzzles" loading="lazy">
+    <div class="rl2-meta">
+      <h3>Hidato Beehive 9: 203 New Logic Puzzles</h3>
+      <p><strong>Author:</strong> Dr. Gyora M. Benedek</p>
+      <p><strong>Published:</strong> 2024</p>
+      <p><strong>Genre:</strong> Puzzle, Activity</p>
+      <p><strong>✅:</strong> Currently reading</p>
+    </div>
+  </article>
+
+  <article class="rl2-card">
     <img src="/images/books/26_TheUltimateActivityBookforSmartMen.jpg" alt="Cover of The Ultimate Activity Book For Smart Men" loading="lazy">
     <div class="rl2-meta">
       <h3>The Ultimate Activity Book For Smart Men</h3>
+      <p><strong>Author:</strong> Solvemore Studio</p>
       <p><strong>Published:</strong> 2025</p>
       <p><strong>Genre:</strong> Puzzle, Activity</p>
       <p><strong>✅:</strong> Currently reading</p>
@@ -29,9 +41,11 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
     <img src="/images/books/25_UndauntedCourage.jpg" alt="Cover of Undaunted Courage" loading="lazy">
     <div class="rl2-meta">
       <h3>Undaunted Courage</h3>
+      <p><strong>Author:</strong> Stephen E. Ambrose</p>
       <p><strong>Published:</strong> 1996</p>
       <p><strong>Genre:</strong> Historical biography</p>
-      <p><strong>✅:</strong> Currently reading</p>
+      <p><strong>✅:</strong> Summer 2026</p>
+      <p><strong>Rating:</strong> ⭐⭐⭐⭐⭐</p>
     </div>
   </article>
 

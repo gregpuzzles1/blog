@@ -16,12 +16,22 @@ Welcome to Puzzlemania.
 <div class="rl2-breakout">
 <div class="rl2-grid">
   <article class="rl2-card">
+    <img src="/images/puzzles/13_The_Blessed_Hope.jpg" alt="picture of The Blessed Hope by Eurographics Puzzle" loading="lazy">
+    <div class="rl2-meta">
+      <h3>The Blessed Hope</h3>
+      <p><strong>Pieces:</strong> 500</p>
+      <p><strong>Type:</strong> Classic / Eurographics Puzzle</p>
+      <p><strong>✅:</strong> 2026-08-30</p>
+    </div>
+  </article>
+
+  <article class="rl2-card">
     <img src="/images/puzzles/12_Winterlands.jpg" alt="picture of Winterlands by Liberty Puzzles" loading="lazy">
     <div class="rl2-meta">
       <h3>Winterlands</h3>
       <p><strong>Pieces:</strong> 524</p>
       <p><strong>Type:</strong> wooden / Liberty Puzzles</p>
-      <p><strong>✅:</strong> Currently working</p>
+      <p><strong>✅:</strong> 2026-08-13</p>
     </div>
   </article>
 
