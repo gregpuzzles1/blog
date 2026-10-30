@@ -16,6 +16,29 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
 <div class="rl2-breakout">
 <div class="rl2-grid">
   <article class="rl2-card">
+    <img src="/images/books/29_ToKillAMockingbird.jpg" alt="Cover of To Kill a Mockingbird" loading="lazy">
+    <div class="rl2-meta">
+      <h3>To Kill a Mockingbird</h3>
+      <p><strong>Author:</strong> Harper Lee</p>
+      <p><strong>Published:</strong> 1960</p>
+      <p><strong>Genre:</strong> Southern Gothic coming-of-age novel</p>
+      <p><strong>✅:</strong> Currently reading</p>
+    </div>
+  </article>
+
+  <article class="rl2-card">
+    <img src="/images/books/28_TheCatcherInTheRye.jpg" alt="Cover of The Catcher in the Rye" loading="lazy">
+    <div class="rl2-meta">
+      <h3>The Catcher in the Rye</h3>
+      <p><strong>Author:</strong> J.D. Salinger</p>
+      <p><strong>Published:</strong> 1951</p>
+      <p><strong>Genre:</strong> Coming-of-age novel</p>
+      <p><strong>✅:</strong> Fall 2026</p>
+      <p><strong>Rating:</strong> ⭐⭐⭐⭐</p>
+    </div>
+  </article>
+
+  <article class="rl2-card">
     <img src="/images/books/27_HidatoBeehive9203NewLogicPuzzles.png" alt="Cover of Hidato Beehive 9: 203 New Logic Puzzles" loading="lazy">
     <div class="rl2-meta">
       <h3>Hidato Beehive 9: 203 New Logic Puzzles</h3>
@@ -33,7 +56,8 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <p><strong>Author:</strong> Solvemore Studio</p>
       <p><strong>Published:</strong> 2025</p>
       <p><strong>Genre:</strong> Puzzle, Activity</p>
-      <p><strong>✅:</strong> Currently reading</p>
+      <p><strong>✅:</strong> Fall 2026</p>
+      <p><strong>Rating:</strong> ⭐⭐⭐⭐⭐</p>
     </div>
   </article>
 
@@ -347,7 +371,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
     <div class="rl2-meta">
       <h3>Landscapes of the Soul</h3>
       <p><strong>Author:</strong> Syd &amp; Geoff Holsclaw</p>
-      <p><strong>✅:</strong> Currently reading</p>
+      <p><strong>✅:</strong> Summer 2026</p>
     </div>
   </article>
 
@@ -981,5 +1005,3 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
 </div>
 {{< /tab >}}
 {{< /tabs >}}
-
-
