@@ -6,6 +6,7 @@ description: "For Codevember Day 15, I used Copilot and Three.js to create an in
 summary: "A Codevember Day 15 experiment: creating something cool with Three.js inspired by the theme “mirage.”"
 tags: ["Codevember", "Mirage", "AI-assisted coding", "Three.js", "Interactive experience"]
 featureimage: "mirage-featured.png"
+images: ["mirage-featured.png"]
 showTaxonomies: true
 showSummary: true
 ---
