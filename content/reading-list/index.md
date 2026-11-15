@@ -45,7 +45,8 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
       <p><strong>Author:</strong> Dr. Gyora M. Benedek</p>
       <p><strong>Published:</strong> 2024</p>
       <p><strong>Genre:</strong> Puzzle, Activity</p>
-      <p><strong>✅:</strong> Currently reading</p>
+      <p><strong>✅:</strong> Fall 2026</p>
+      <p><strong>Rating:</strong> ⭐⭐⭐⭐⭐</p>
     </div>
   </article>
 
@@ -74,13 +75,14 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
   </article>
 
   <article class="rl2-card">
-    <img src="/images/books/24_ChristsObjectLessons.jpg" alt="Cover of Christ's Object Lessons" loading="lazy">
+    <img src="/images/books/24_ChristsObjectLessons.jpg?v=20261115" alt="Cover of Christ's Object Lessons" loading="lazy">
     <div class="rl2-meta">
       <h3>Christ's Object Lessons</h3>
       <p><strong>Author:</strong> Ellen G. White</p>
       <p><strong>Published:</strong> 1900</p>
       <p><strong>Genre:</strong> Christian devotional</p>
-      <p><strong>✅:</strong> Currently reading</p>
+      <p><strong>✅:</strong> Fall 2026</p>
+      <p><strong>Rating:</strong> ⭐⭐⭐⭐⭐</p>
     </div>
   </article>
 
@@ -97,7 +99,7 @@ Welcome to Greg's reading list. These are some of the books that I have enjoyed 
   </article>
 
   <article class="rl2-card">
-    <img src="/images/books/22_TheMinistryofHealing.jpg" alt="Cover of The Ministry of Healing by Ellen G. White" loading="lazy">
+    <img src="/images/books/22_TheMinistryofHealing.jpg?v=20261115" alt="Cover of The Ministry of Healing by Ellen G. White" loading="lazy">
     <div class="rl2-meta">
       <h3>The Ministry of Healing</h3>
       <p><strong>Author:</strong> Ellen G. White</p>
