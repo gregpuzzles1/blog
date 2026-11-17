@@ -55,6 +55,8 @@ enableRobotsTXT = true
 	showRecentItems = 18
 	cardView = true
 	cardViewScreenWidth = false
+	showMoreLink = true
+	showMoreLinkDest = '/older-posts/'
 
 [params.article]
 	showBreadcrumbs = false
