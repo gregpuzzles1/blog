@@ -31,7 +31,7 @@ Title: First Peck
 
 On-screen instruction: Tap the cracked egg to watch it hatch.
 
-Scene
+### Scene
 
 Begin with a close-up of an American robin's nest tucked into the fork of a tree in spring. Build the nest from layered twigs, dry grasses, and fine fibers, with a soft lining inside the cup. Frame it with fresh green leaves, a few buds, and dappled morning light. Let the background suggest a larger tree canopy while keeping the nest as the focus.
 
@@ -39,7 +39,7 @@ Place exactly three robin-blue eggs in the nest. Two eggs stay intact. The third
 
 Perch an adult American robin on a nearby branch, close enough to see its orange breast and gray-brown back. The adult is on the lookout. Give it occasional blinks, small head turns, and a moment when it glances toward the nest after hearing the chick peck.
 
-Hatching interaction
+### Hatching interaction
 
 Before the visitor interacts, give the cracked egg an occasional tiny wobble. When the visitor taps or clicks it, animate a short hatching sequence:
 
@@ -53,13 +53,13 @@ Before the visitor interacts, give the cracked egg an occasional tiny wobble. Wh
 
 End with the baby robin still partly inside the egg and its head visible. Keep all three eggs in the nest throughout the sequence. Let visitors replay the moment with a small Replay button that appears after the animation finishes.
 
-3D camera and controls
+### 3D camera and controls
 
 Use Three.js and WebGL to build the nest, eggs, chick, adult robin, branches, and leaves as real 3D geometry. Give the nest and main branches enough detail to hold up from every angle.
 
 Start with a slow, subtle camera orbit centered on the nest. Let visitors drag with a mouse or one finger to orbit a full 360 degrees horizontally and tilt up or down. Support pinch and scroll-wheel zoom. Stop the automatic orbit as soon as the visitor moves the camera. Set sensible tilt and zoom limits so the camera stays outside the eggs and branches. Keep the camera usable while the egg hatches, and distinguish a tap from an orbit gesture so dragging across the egg does not trigger it.
 
-Responsive and accessible design
+### Responsive and accessible design
 
 Let the scene fill the screen. Keep the title, one short instruction, and compact controls at the edges so they leave the nest visible. Frame the opening view separately for portrait and landscape screens so both the adult robin and the nest are easy to find.
 
@@ -67,7 +67,7 @@ Give keyboard and screen-reader users an accessible Hatch egg button that trigge
 
 Include a Pause motion control. Honor prefers-reduced-motion by starting with a still camera, reducing ambient motion, and showing the hatching in a few gentle stages when activated. Make the pecks and shell movement clear visually so the interaction works without sound. If WebGL is unavailable, show a short text description of the scene and the hatching moment.
 
-Deliverable
+### Deliverable
 
 Build the complete project inside Codevember-2026/24/ using HTML, CSS, JavaScript, and Three.js. Use relative paths so it works on GitHub Pages under /codevember-2026/24/. Verify the hatching, replay, and camera controls with mouse, touch, and keyboard, and check the opening composition on a narrow phone screen.
 
